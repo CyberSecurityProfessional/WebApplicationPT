@@ -1,7 +1,7 @@
 # WebApplicationPT
 Complete web application penetration testing methodology research.
 ## Purpose of Penetration Testing
-To break the system's Authn, Authz, and Confidentiality, intigrity, Availability (CIA)
+To break the system's Authn, Authz, and Confidentiality, Intigrity, Availability (CIA)
 ## Types of testing
 ```
 Vulnerability Assessment (VA)
