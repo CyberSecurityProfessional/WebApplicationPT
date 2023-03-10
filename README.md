@@ -118,9 +118,9 @@ Native login:
   > Default credentials bruteforcing
   > Username/ Email addresspage enumeration
 HTTP Basic Authenticaton
-Platform based authentication
+Platform based authentication:
   > NTLMv1
-  >NTLMv2
+  > NTLMv2
 SSO (SAML)
 OAuth1.0
 OAuth2.0
