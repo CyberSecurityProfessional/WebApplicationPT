@@ -38,6 +38,9 @@ Non-intrusive
 * WSTG v4.2,4,3
 * WASC 40
 * SANS 25
+## Initial Steps
+* Attend application's walkthrough demo call (or) Watch call record
+* Questionnaire
 ## Checklist
 ### Information Gathering
 ```
