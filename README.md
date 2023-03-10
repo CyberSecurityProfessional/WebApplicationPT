@@ -19,14 +19,22 @@ White box: Covers both static application security testing (SAST) and dynamic ap
 Grey box: Covers only DAST (Only application domain name and credentials will be given)
 Black box: Only in-scope application domain name will be given.
   > Approach, tools, intrusive level can be anything and everything is attackers choice.
-  > Final goal: To break the system's Authn, Authz, and Confidentiality, intigrity, Availability (CIA) from zero (without having any prior knowledge on the application/ Environment).
+  > Aim: To break into the system's Authn, Authz, and Confidentiality, intigrity, Availability (CIA) from zero (without having any prior knowledge on the application/ Environment).
 ```
 * Based on the environment
 ```
 Internal PT
-  > Prefered: White box, Grey box
+  > Preferred PT: White box
+  > Preferred Reviews:
+        Over all Application architecture review
+        Application Server configuration review
+        Web server configuration review (Server hardening)
+        Cloud configuration review (SaaS, PaaS, IaaS)
+        Database server configuration review
+        Docker containers, Kubernetes
+        CDN
 External PT
-  > Prefered: Blackbox
+  > Prefered PT: Grey box (or) Black box
 ```
 * Based on the intrusive level
 ```
