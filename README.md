@@ -32,7 +32,7 @@ Internal PT
         Cloud configuration review (SaaS, PaaS, IaaS)
         Database server configuration review
         Docker containers, Kubernetes
-        CDN
+        CDN - Cloudflare, Etc.
 External PT
   > Prefered PT: Grey box (or) Black box
 ```
