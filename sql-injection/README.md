@@ -4,5 +4,5 @@
 CLI Tools:
     sqlmap
 Burp Extensions:
-    SQLiPy
+    SQLiPy (https://portswigger.net/support/using-burp-with-sqlmap)
 ```
