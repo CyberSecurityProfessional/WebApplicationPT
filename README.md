@@ -42,14 +42,18 @@ Intrusive (Ex: Exploiting OS command injection, SQL injection, SSRF, etc)
 Non-intrusive (No exploitation)
 ```
 ## Standards used
-* OWASP Top 10
-* WSTG v4.2,4,3
-* WASC 40
-* SANS 25
+```
+1. OWASP Top 10
+2. WSTG v4.2,4,3
+3. WASC 40
+4. SANS 25
+```
 ## Initial Steps
-* Attend application's walkthrough demo call (or) Watch call record
-* Questionnaire
-## Checklist
+```
+1. Attend application's walkthrough demo call (or) Watch call record
+2. Questionnaire formalities
+```
+# Checklist
 ### Information Gathering
 * Client documents:
 ```
