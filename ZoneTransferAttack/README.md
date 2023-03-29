@@ -36,7 +36,7 @@ All sub domains and their DNS records will appear here
 DNS Records: A, AA, CNAME, MX, NS, SOA, SRV, TXT, 
 ```
 * kali@kali:~$ host -l domain.com ns2.eisdmn.net.au
-> A and NS records in human readable format
+> A and NS records will be displayed in human readable format
 ```
 Using domain server:
 Name: ns2.eisdmn.net.au
