@@ -51,13 +51,25 @@ Non-intrusive (No exploitation)
 * Questionnaire
 ## Checklist
 ### Information Gathering
+* Client documents:
 ```
-Client documents:
-  > Security Assessment Readiness document (SAR) (or) Factsheet
-  > Demo call
+> Security Assessment Readiness document (SAR) (or) Factsheet
+> Demo call
+> Application training videos
+> Application documents, User guide and manual
 ```
+* Port enumeration
 ```
-Other checklist here
+nmap
+```
+* Automated Web Scanner
+```
+nikto
+```
+* Directory listing vulnerability
+```
+> dirb
+> dirsearch
 ```
 * Sub domain enumeration
 ```
