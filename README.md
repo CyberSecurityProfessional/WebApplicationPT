@@ -141,4 +141,11 @@ Insufficient anti-automation - CAPTCHA, Re-CAPTCHA - Inbox flooding attack
 Insufficient anti-automation - CAPTCHA, Re-CAPTCHA - inbox flooding attack
 Host header attack
 ```
+* Request smuggling attack
+```
+Tool: Request smuggler tool
+git clone https://github.com/defparam/smuggler.git
+cd smuggler
+python3 smuggler.py -h
+```
 # In progress
