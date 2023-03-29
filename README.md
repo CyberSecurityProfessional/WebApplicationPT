@@ -148,4 +148,5 @@ git clone https://github.com/defparam/smuggler.git
 cd smuggler
 python3 smuggler.py -u https://sub.domain.com
 ```
+* zone transfers attack
 # In progress
