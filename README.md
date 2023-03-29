@@ -146,6 +146,6 @@ Host header attack
 Tool: Request smuggler tool
 git clone https://github.com/defparam/smuggler.git
 cd smuggler
-python3 smuggler.py -h
+python3 smuggler.py -u https://sub.domain.com
 ```
 # In progress
