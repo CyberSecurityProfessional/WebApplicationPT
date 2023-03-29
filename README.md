@@ -167,4 +167,14 @@ cd smuggler
 python3 smuggler.py -u https://sub.domain.com
 ```
 * zone transfers attack
+* Cryptography failures
+```
+Tools:
+1. sslscan
+2. testssl
+Vulnerabilities:
+SSL/TLS weak protocols supported
+SSL/TLS weak cipher suite supported
+so many - add here
+```
 # In progress
