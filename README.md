@@ -23,7 +23,7 @@ Black box: Only in-scope application domain name will be given.
 ```
 * Based on the environment
 ```
-Internal PT
+Internal PT:
   > Preferred PT: White box
   > Preferred Reviews:
         Over all Application architecture review
@@ -33,7 +33,7 @@ Internal PT
         Database server configuration review
         Docker containers, Kubernetes
         CDN - Cloudflare, Etc.
-External PT
+External PT:
   > Prefered PT: Grey box (or) Black box
 ```
 * Based on the intrusive level
@@ -67,9 +67,10 @@ nmap
 nikto
 ```
 * Directory listing vulnerability
+* Directory Search or Directory bruteforcing
 ```
-> dirb
-> dirsearch
+1. dirb
+2. dirsearch
 ```
 * Sub domain enumeration
 ```
@@ -106,11 +107,11 @@ PHP
 * Hosting platform
 ```
 Cloud
-  > AWS
-  > Azure
-  > GCP
-  > Digital Ocean
-  > Alibaba
+> AWS
+> Azure
+> GCP
+> Digital Ocean
+> Alibaba
 On primises
 Shared hosting
 VPS
