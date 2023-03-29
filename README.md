@@ -5,10 +5,10 @@ To break the system's Authn, Authz, and Confidentiality, Intigrity, Availability
 ## Types of Security Testing
 ```
 Vulnerability Assessment (VA)
-  > Only automated scans
+  > Only automated scans and false positives
 Vulnerability Assessment and Penetration Testing (VAPT)
-  > Automated scans
-  > Manual penetration testing
+  > Automated scans and false positives
+  > Manual penetration testing (Intrusive testing and interactive exploitation)
 ```
 ## Types of penetration testing
 * Based on the testing approach
@@ -16,7 +16,7 @@ Vulnerability Assessment and Penetration Testing (VAPT)
 White box: Covers both static application security testing (SAST) and dynamic application security testing (DAST)
   > SAST: Source Code Review, Dependency Scan, Software Component Analysis
   > DAST: Automated Scanners, Tools, Manual Penetration Testing
-Grey box: Covers only DAST (Only application domain name and credentials will be given)
+Grey box: Covers only DAST (Application domain name, credentials and application walkthrough will be given)
 Black box: Only in-scope application domain name will be given.
   > Approach, tools, intrusive level can be anything and everything is attackers choice.
   > Aim: To break into the system's Authn, Authz, and Confidentiality, intigrity, Availability (CIA) from zero (without having any prior knowledge on the application/ Environment).
