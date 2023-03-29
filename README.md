@@ -38,8 +38,8 @@ External PT
 ```
 * Based on the intrusive level
 ```
-Intrusive
-Non-intrusive
+Intrusive (Ex: Exploiting OS command injection, SQL injection, SSRF, etc)
+Non-intrusive (No exploitation)
 ```
 ## Standards used
 * OWASP Top 10
