@@ -60,6 +60,11 @@ Client documents:
 Other checklist here
 ```
 * Sub domain enumeration
+```
+1. Zone transfers Attack
+2. Sub domain enumeration Tools
+3. Brute forcing - list of subdomains
+```
 * Enumerating to identify admin login pages
 ### Technology based checks
 * JavaScript frameworks
