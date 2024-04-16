@@ -14,7 +14,7 @@ Vulnerability Assessment and Penetration Testing (VAPT)
 * Based on the testing approach
 ```
 White box: Covers both static application security testing (SAST) and dynamic application security testing (DAST)
-  > SAST: Source Code Review, Dependency check Scan, Software Component Analysis
+  > SAST: Source Code Review (Manual & Automated code scan - tools: Checkmarx, Sonarqube), Dependency check Scan (Tool: OWASP dependency check Scan), Software Composition Analysis
   > DAST: Automated Scanners, Tools, Manual Penetration Testing
 Grey box: Covers only DAST (Application domain name, credentials and application walkthrough will be given)
 Black box: Only in-scope application domain name will be given.
