@@ -1,5 +1,5 @@
 # SQL Injection Attack (SQLi)
-* Structured Query language
+* SQL stands for Structured Query language
 ## Tools
 ```
 CLI Tools:
