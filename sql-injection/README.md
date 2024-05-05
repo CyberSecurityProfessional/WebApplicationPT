@@ -29,3 +29,9 @@ Nmap done: 1 IP address (1 host up) scanned in 65.72 seconds
 * 443 is the standard port used for the HTTPS protocol.
 * Directory is a folder called in web-application terminology.
 * 404 is the HTTP response code is given for 'Not Found' errors.
+* "#" is a single character can be used to comment out the rest of a line in MySQL.
+* SQL payloads for login page(Web page: Port 80):
+```
+admin'#
+1' or '1'='1
+```
