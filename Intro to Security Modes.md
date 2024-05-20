@@ -143,3 +143,9 @@ Malware analysis aims to learn about such malicious programs using various means
 2. Dynamic analysis works by running the malware in a controlled environment and monitoring its activities.
     It lets you observe how the malware behaves when running.
 ```
+* Questions:
+```
+What would you call a team of cyber security professionals that monitors a network and its systems for malicious events? - SOC
+What does DFIR stand for?
+Which kind of malware requires the user to pay money to regain access to their files? - Ransomware
+```
