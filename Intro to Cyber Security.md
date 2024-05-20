@@ -1,4 +1,4 @@
-# Intro to Security Modes
+# Introduction to Cyber Security
 * Offensive Security:
 ```
 In short, offensive security is the process of breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access to them.
