@@ -47,6 +47,7 @@ TryHackMe's learning paths will give you both the fundamental technical knowledg
 1. Introduction to Cyber Security - https://tryhackme.com/path/outline/introtocyber
 2. Pre Security - https://tryhackme.com/path/outline/presecurity/
 3. SOC Level 1 - https://tryhackme.com/path/outline/soclevel1
+4. https://tryhackme.com/path/outline/jrpenetrationtester
 ```
 * Security Engineer:
 ```
@@ -63,6 +64,7 @@ Responsibilities:
 
 Learning Paths:
 TryHackMe's learning paths will give you both the fundamental technical knowledge and hands-on experience, which is crucial to becoming a successful Security Engineer.
+0. https://tryhackme.com/path/outline/presecurity
 1. SOC Level 1 - https://tryhackme.com/path/outline/soclevel1
 2. JR Penetration Tester - https://tryhackme.com/path/outline/jrpenetrationtester
 3. Offensive Pentesting - https://tryhackme.com/path/outline/pentesting
@@ -86,6 +88,8 @@ Responsibilities:
 Learning Paths:
 TryHackMe's learning paths will give you both the fundamental technical knowledge and hands-on experience, which is crucial to becoming a successful Incident Responder.
 1. SOC Level 1 - https://tryhackme.com/path/outline/soclevel1
+2. https://tryhackme.com/path/outline/presecurity
+3. https://tryhackme.com/path/outline/jrpenetrationtester
 ```
 * Digital Forensics Examiner:
 ```
@@ -136,6 +140,9 @@ which is crucial to becoming a successful Penetration Tester.
 
 1. JR Penetration Tester - https://tryhackme.com/path/outline/jrpenetrationtester
 2. Offensive Pentesting - https://tryhackme.com/path/outline/pentesting
+3. https://tryhackme.com/path/outline/presecurity
+4. https://tryhackme.com/path/outline/jrpenetrationtester
+5. https://tryhackme.com/path/outline/pentesting
 ```
 * Red Teamer:
 ```
