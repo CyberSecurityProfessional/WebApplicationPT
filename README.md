@@ -48,6 +48,21 @@ Non-intrusive (No exploitation)
 3. WASC 40
 4. SANS 25
 ```
+```
+OWASP:
+The Open Web Application Security Project is a nonprofit foundation focused on understanding web technologies and exploitations and provides resources and tools designed to improve the security of software applications.
+> Injection
+> Broken Authentication
+> Sensitive Data Exposure
+> XML External Entity (Extensible Markup Language is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable)
+  https://www.w3schools.com/xml/xml_whatis.asp
+> Broken Access Control
+> Security Misconfiguration
+> Cross-site Scripting
+> Insecure Deserialization
+> Components with Known Vulnerabilities
+> Insufficent Logging & Monitoring
+```
 ## Initial Steps
 ```
 1. Attend application's walkthrough demo call (or) Watch call record
