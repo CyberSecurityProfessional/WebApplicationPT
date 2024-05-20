@@ -69,8 +69,8 @@ Some of the main areas of interest for a SOC are:
 > Security operations cover various tasks to ensure protection; one such task is threat intelligence.
 ```
 * Threat Intelligence
-![image](https://github.com/CyberSecurityProfessional/WebApplicationPT/assets/30984216/d3a5e8b2-ede8-45d7-beb9-138e287e2ea4)
 
+![image](https://github.com/CyberSecurityProfessional/WebApplicationPT/assets/30984216/d3a5e8b2-ede8-45d7-beb9-138e287e2ea4)
 ```
 In this context, intelligence refers to information you gather about actual and potential enemies.
 A threat is any action that can disrupt or adversely affect a system.
@@ -111,7 +111,6 @@ Log files provide plenty of information about what happened on a system. Some tr
 ```
 * Incident Response
 ![image](https://github.com/CyberSecurityProfessional/WebApplicationPT/assets/30984216/c8c132c3-63d6-4f55-8482-632e516c9365)
-
 ```
 An incident usually refers to a data breach or cyber attack; however, in some cases, it can be something less critical, such as a misconfiguration, an intrusion attempt, or a policy violation.
 Examples of a cyber attack include an attacker making our network or systems inaccessible, defacing (changing) the public website, and data breach (stealing company data).
