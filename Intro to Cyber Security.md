@@ -167,6 +167,7 @@ To send and receive postal mail, you need a physical address; similarly, you nee
 An IP address is a logical address that allows you to communicate over the Internet.
 We inspect the cause of the trigger to confirm whether the event is indeed malicious.
 If it is malicious, we need to take due action, such as reporting to someone else in the SOC and blocking the IP address.
+
 SIEM: Security Information and Event Management system that is used to aggregate security information in the form of logs, alerts, artifacts
       and events into a centralized platform that would allow security analysts to perform near real-time analysis during security monitoring.
       https://tryhackme.com/room/sigma
