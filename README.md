@@ -69,6 +69,14 @@ The Open Web Application Security Project is a nonprofit foundation focused on u
 2. Questionnaire formalities
 ```
 # Checklist
+```
+Checklist based on:
+Server OS
+App server
+Web server (Framework) - node, angular, electorn, react etc
+HTTP Version
+HTML5 Security issues
+```
 ### Information Gathering
 * Client documents:
 ```
