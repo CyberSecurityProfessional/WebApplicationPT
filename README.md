@@ -72,8 +72,8 @@ The Open Web Application Security Project is a nonprofit foundation focused on u
 ```
 Checklist based on:
 Server OS
-App server
-Web server (Framework) - node, angular, electorn, react etc
+App server (Framework) - node, angular, electorn, react, etc
+Web server
 HTTP Version
 HTML5 Security issues
 ```
